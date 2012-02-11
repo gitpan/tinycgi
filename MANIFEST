@@ -1,0 +1,9 @@
+CHANGES
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+README.mkdn
+lib/tinycgi.pm
+t/00-load.t
